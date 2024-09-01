@@ -1426,6 +1426,10 @@ PrefabInstance:
       propertyPath: m_Constraints
       value: 64
       objectReference: {fileID: 0}
+    - target: {fileID: 7478813070430195150, guid: b7d38edaf9ea8a548bf1621fce99beb8, type: 3}
+      propertyPath: camera
+      value: 
+      objectReference: {fileID: 3149812730623260726}
     - target: {fileID: 8855786947458725458, guid: b7d38edaf9ea8a548bf1621fce99beb8, type: 3}
       propertyPath: m_Height
       value: 1.5352005
@@ -1452,6 +1456,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b7d38edaf9ea8a548bf1621fce99beb8, type: 3}
+--- !u!20 &3149812730623260726 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 5306893040505809004, guid: b7d38edaf9ea8a548bf1621fce99beb8, type: 3}
+  m_PrefabInstance: {fileID: 3149812730623260725}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &8716331037282682410
 PrefabInstance:
   m_ObjectHideFlags: 0
